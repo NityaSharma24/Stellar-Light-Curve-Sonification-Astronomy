@@ -1,4 +1,4 @@
-# Stellar-Light-Curve-Sonification-Astronomy
+# Black-Hole-Sonification-Astronomy
 Cyg X-1: X-Ray Data Sonification
 
 This project explores sonification—the process of translating data into sound—using X-ray measurements from **Cygnus X-1**, a black hole system observed through X-rays. The goal is to transform an astronomical light curve into an audible sequence of notes, allowing patterns in the data to be explored through sound rather than visual graphs alone. This project is part of my broader exploration of accessible scientific data interpretation, particularly for blind and visually impaired people.
